@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "flatlist-tests",
+    "slug": "flatlist-tests",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
